@@ -47,9 +47,12 @@ a{
 
 .animeHobbyText {
     font-size: 20px;
-    padding-bottom: 15px;
-    padding-top: 15px;
     text-align: justify;
+    list-style-type: upper-roman;
+}
+
+.animeHobbyTextList {
+    padding-bottom: 15px;
 }
 
 .sect-1-right,
